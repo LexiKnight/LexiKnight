@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, my name is Lexi Knight. 
+I am a forth year student at the Univeristy of Toronto. In the summers I work at a Cancer Clinic as a unit clerk. 
 
 <!--
 **LexiKnight/LexiKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
